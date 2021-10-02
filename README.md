@@ -1,2 +1,4 @@
-# Ob6uction
-☢Discord Windows Batch &amp; PowerShell Token Grabber☢
+<h1 align="center">Ob6uction</h1>
+<p align='center'>
+    <b>Windows Batch and powershell Discord Token grabber. Made for Troll !</b><br>
+
