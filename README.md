@@ -17,7 +17,7 @@
 
 ```sh
 1. pip(3) install numpy colored
-2. python(3) Batched.py
+2. pip(3) install fg
 3. Get fun !
 ``` 
 
