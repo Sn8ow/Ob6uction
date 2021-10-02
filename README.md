@@ -1,3 +1,9 @@
+[![Discord](https://discord.com/api/guilds/863869775921938452/widget.png)](https://discord.gg/RXtVveQf56)
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Sn8ow/Ob6uction?style=social">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Sn8ow/Ob6uction">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sn8ow/Ob6uction">
+    <img alt="GitHub" src="https://img.shields.io/github/license/Sn8ow/Ob6uction">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Sn8ow/Ob6uction?style=social">
 <h1 align="center">Ob6uction</h1>
 <p align='center'>
     <b> ☢Discord Windows Batch & PowerShell Token Grabber☢ </b><br>
